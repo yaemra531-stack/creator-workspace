@@ -4,12 +4,12 @@
 - **项目名称**：创作者内容基地 (Creator Workspace) · 雅思干货与创作大本营
 - **物理路径**：`/Users/curry/Projects/creator-workspace`
 - **远程公开仓库**：`https://github.com/yaemra531-stack/creator-workspace`
-- **创作者宇宙总母港**：`https://github.com/yaemra531-stack` (Profile README)
+- **创作者宇宙总母港**：`https://github.com/yaemra531-stack` (瓦斯 · 创作者宇宙 Profile README)
 - **核心定位**：三大支柱中的深度交付大本营（雅思干货深度打磨 + AI 好物周荐备料）。
 
 ---
 
-## 🏛️ 创作者宇宙三大支柱分工
+## 🏛️ 瓦斯 · 创作者宇宙三大支柱分工
 1. **📘 支柱一：雅思 × AI（核心垂直主线）**
    - **📱 雅思日记** (`/Users/curry/Projects/diary-content-system`)：每天随手记 1~2 句试验卡点，一键生成小红书日常。
    - **📚 雅思干货** (`/Users/curry/Projects/creator-workspace/03-16步干货草稿`)：将验证有效的方法，按 16 步打磨成深度交付合集。

@@ -1,0 +1,38 @@
+name: 🔄 每日备考日记定时同步入库 (Sync Diaries from Cloud D1)
+
+on:
+  schedule:
+    # 每天北京时间 08:00 与 23:00 (UTC 00:00 与 15:00) 自动定时拉取
+    - cron: '0 0,15 * * *'
+  workflow_dispatch: # 支持在 GitHub 网页上一键手动触发
+
+jobs:
+  sync-diaries:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 检出仓库代码
+        uses: actions/checkout@v4
+
+      - name: 配置 Node.js 环境
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 从 Cloudflare D1 拉取最新日记
+        run: node scripts/sync-diaries.mjs
+
+      - name: 检查是否有新日记并自动提交推送
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add 02-成型日记/每日备战日记/
+          if git diff --staged --quiet; then
+            echo "没有新的日记变动，无需提交。"
+          else
+            git commit -m "chore(sync): 🤖 自动定时同步云端最新雅思备考日记"
+            git push
+            echo "✅ 新日记已成功自动提交并推送到仓库！"
+          fi

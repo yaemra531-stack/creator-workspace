@@ -1,0 +1,11 @@
+name = "creator-api-worker"
+main = "src/index.js"
+compatibility_date = "2026-09-28"
+
+[vars]
+AUTH_KEY = "gas"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "creator-hub-db"
+database_id = "替换为_wrangler_d1_create_生成的数据库ID"

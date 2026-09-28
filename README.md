@@ -7,7 +7,7 @@
 ### ⚡ 快捷直达导航 (Quick Access)
 | 🎯 板块 / 目标 | 🚀 直达入口 | 📦 对应开源仓库 |
 | :--- | :--- | :--- |
-| 📱 **雅思日记** | [🚀 打开工作台 (本地 5173)](http://localhost:5173) | [diary-content-system](https://github.com/yaemra531-stack/diary-content-system) |
+| 📱 **雅思日记** | [🚀 打开线上工作台](https://ielts-diary.yaemra531.workers.dev) | [diary-content-system](https://github.com/yaemra531-stack/diary-content-system) |
 | 📚 **雅思干货** | [📂 进入 16 步草稿库](03-16步干货草稿) | [creator-workspace](https://github.com/yaemra531-stack/creator-workspace) |
 | 🛠️ **AI 好物周荐** | [📂 进入周荐专栏](04-AI好物周荐) | [creator-workspace/04-AI好物周荐](https://github.com/yaemra531-stack/creator-workspace/tree/main/04-AI%E5%A5%BD%E7%89%A9%E5%91%A8%E8%8D%90) |
 | 💡 **博客随笔** | [🌐 访问线上网站](https://yaemra531-stack.github.io/ink-thought-blog/) | [ink-thought-blog](https://github.com/yaemra531-stack/ink-thought-blog) |

@@ -7,5 +7,5 @@ AUTH_KEY = "gas"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "creator-hub-db"
-database_id = "替换为_wrangler_d1_create_生成的数据库ID"
+database_name = "ielts-diary-db"
+database_id = "31e14c59-f641-416f-843d-ce5d988d2f89"

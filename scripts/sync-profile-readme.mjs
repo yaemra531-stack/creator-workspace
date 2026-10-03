@@ -22,6 +22,7 @@ const readmeContent = `# 🌌 瓦斯 · 创作者宇宙
 | 🎯 板块 / 目标 | 🚀 直达入口 | 📦 对应开源仓库 |
 | :--- | :--- | :--- |
 | 📱 **雅思日记** | [🚀 访问线上工作台](https://ielts-diary.yaemra531.workers.dev) | [diary-content-system](https://github.com/yaemra531-stack/diary-content-system) |
+| ✍️ **顾家北100句默写** | [🚀 访问练习器](https://yaemra531-stack.github.io/ielts-100-sentences/) | [ielts-100-sentences](https://github.com/yaemra531-stack/ielts-100-sentences) |
 | 📘 **每日备战日记** | [📂 进入成型日记库](https://github.com/yaemra531-stack/creator-workspace/tree/main/02-%E6%88%90%E5%9E%8B%E6%97%A5%E8%AE%B0/%E6%AF%8F%E6%97%A5%E5%A4%87%E6%88%98%E6%97%A5%E8%AE%B0) | [02-成型日记](https://github.com/yaemra531-stack/creator-workspace/tree/main/02-%E6%88%90%E5%9E%8B%E6%97%A5%E8%AE%B0) |
 | 📚 **雅思干货** | [📂 进入 16 步草稿库](https://github.com/yaemra531-stack/creator-workspace/tree/main/03-16%E6%AD%A5%E5%B9%B2%E8%B4%A7%E8%8D%89%E7%88%BF) | [creator-workspace](https://github.com/yaemra531-stack/creator-workspace) |
 | 🛠️ **AI 好物周荐** | [📂 进入周荐专栏](https://github.com/yaemra531-stack/creator-workspace/tree/main/04-AI%E5%A5%BD%E7%89%A9%E5%91%A8%E8%8D%90) | [creator-workspace/04-AI好物周荐](https://github.com/yaemra531-stack/creator-workspace/tree/main/04-AI%E5%A5%BD%E7%89%A9%E5%91%A8%E8%8D%90) |
@@ -40,6 +41,10 @@ const readmeContent = `# 🌌 瓦斯 · 创作者宇宙
   - *入口*：[访问线上工作台](https://ielts-diary.yaemra531.workers.dev) · [源码仓库](https://github.com/yaemra531-stack/diary-content-system)
   - *定位*：记录 0 报班、0 外教纯靠 AI 学雅思的真实试验过程。
   - *用法*：灵感来了随手记，只记当天的一个具体卡点或一个小发现，一键生成小红书日常。
+- ✍️ **[顾家北100句默写练习器](https://github.com/yaemra531-stack/ielts-100-sentences)**：
+  - *入口*：[整句默写](https://yaemra531-stack.github.io/ielts-100-sentences/) · [词伙专项](https://yaemra531-stack.github.io/ielts-100-sentences/chunks.html) · [源码仓库](https://github.com/yaemra531-stack/ielts-100-sentences)
+  - *定位*：雅思写作键盘盲打主动提取与 273 项核心词伙肌肉记忆练习器。
+  - *用法*：Enter 键流连续核对、错项强制重写，由专属 Agent 独立维护，数据与版权合规隔离。
 - 📚 **[雅思干货](https://github.com/yaemra531-stack/creator-workspace)**：
   - *入口*：[进入 16 步草稿库](https://github.com/yaemra531-stack/creator-workspace/tree/main/03-16%E6%AD%A5%E5%B9%B2%E8%B4%A7%E8%8D%89%E7%88%BF)
   - *定位*：将日记中摸索出来并切实验证有效的 AI 提分方法，沉淀为解决具体卡点的深度干货合集。

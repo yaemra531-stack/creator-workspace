@@ -5,6 +5,8 @@
   "description": "瓦斯创作者内容基地 · 雅思干货与创作大本营",
   "type": "module",
   "scripts": {
-    "sync-diaries": "node scripts/sync-diaries.mjs"
+    "sync-diaries": "node scripts/sync-diaries.mjs",
+    "radar": "node ielts-radar/server.js",
+    "radar:start": "node ielts-radar/server.js"
   }
 }

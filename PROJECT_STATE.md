@@ -11,6 +11,7 @@
 
 ## 🏛️ 瓦斯 · 创作者宇宙三大支柱分工
 1. **📘 支柱一：雅思 × AI（核心垂直主线）**
+   - **📡 雅思侦察 (IELTS Radar)** (`/Users/curry/Projects/creator-workspace/ielts-radar`)：Apple × Notion × Linear 风格个人研究工作台，双 Agent（WorkBuddy + Muse）每日精选 10 篇真实社媒生态，已全量部署至 GitHub Pages（`https://yaemra531-stack.github.io/ielts-radar/`）。
    - **📱 雅思日记** (`/Users/curry/Projects/diary-content-system`)：每天随手记 1~2 句试验卡点，一键生成小红书日常。
    - **✍️ 顾家北100句默写** (`/Users/curry/Documents/ChatGPT/雅思/ielts-100-sentences`)：键盘盲打主动提取与273项词伙实战默写练习器（专属 Agent 打理，母港负责成果转化）。
    - **📚 雅思干货** (`/Users/curry/Projects/creator-workspace/03-16步干货草稿`)：将验证有效的方法，按 16 步打磨成深度交付合集。
@@ -27,6 +28,7 @@
   - `日记型内容系统-初衷与架构设计.md`：双轨并行架构与初衷沉淀
   - `真云端实时数据库技术评估与接入指南.md`：打破 LocalStorage 限制的 D1 + Workers Serverless 技术评估、表结构与 API 接入规范（**核心架构**）
   - `外部协同工具-顾家北100句默写器.md`：外接键盘默写网站（ielts-100-sentences）规格与版权数据边界档案（**外部协同**）
+  - `外部协同工具-IELTS-Radar.md`：AI 雅思侦察日志系统规格与 GitHub Pages 部署档案（**外部协同**）
 - `01-素材池/`：每日随时记录的备料碎片
 - `02-成型日记/`：
   - `每日备战日记/`：**每日雅思实操备战日记库**（与 Cloudflare D1 云数据库打通，已入库 Day 01~03 打卡与索引，支持定时自动同步）
@@ -87,6 +89,10 @@
     - **极简三栏与右侧辅助收敛**：中间导航仅保留「随笔 · 速记 · 参考」三大内容中枢；「关于」作为辅助信息优雅移至右侧工具栏；彻底剔除突兀的「🛡️ 站长」与「👁️ 读者视角」管理徽章，恢复纯粹的数字花园留白美感。
     - **性能与直达**：支持 `?tab=thoughts` 快速直达速记模式，首屏 JS 打包体积削减 24.2 KB，构建全绿上线 GitHub Pages。
     - **职责归位**：写作挑战全面归位至专属日记工作台（63 篇大盘），博客回归纯粹的思想顿悟与灵感速记中枢。
+16. **IELTS Radar 雅思内容侦察系统 V3.0 上线并部署 GitHub Pages（2026-10-11）**：
+    - **三大核心研究目标 V2.0 确立**：确立「①发现 · ②理解 · ③价值」为核心导向，坚决不盲从爆款数据，专注真实痛点与读者价值沉淀。
+    - **Apple × Notion × Linear 极简重构**：完成 220px 克制左侧导航、单列纵向阅读流、白底高对比卡片、并排对比 Diff 提示词管理器与文档化目标阅读的全量视觉重塑。
+    - **全自动化测试与无缝双模部署**：50 项核心测试全部 PASS，独立开源仓库 `yaemra531-stack/ielts-radar` 建立并作为子模块纳管，配置自动化工作流部署至 GitHub Pages（`https://yaemra531-stack.github.io/ielts-radar/`）。
 
 ### 🚧 待攻坚卡点与下阶段任务（Next Implementation Steps）
 1. **展开并补完 C10 实操正文**：结合背单词软件对比与艾宾浩斯调度展开成文，写完当晚执行微改。

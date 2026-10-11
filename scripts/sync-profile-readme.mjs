@@ -22,6 +22,7 @@ const readmeContent = `# 🌌 瓦斯 · 创作者宇宙
 | 🎯 板块 / 目标 | 🚀 直达入口 | 📦 对应开源仓库 |
 | :--- | :--- | :--- |
 | 📱 **雅思日记** | [🚀 访问线上工作台](https://ielts-diary.yaemra531.workers.dev) | [diary-content-system](https://github.com/yaemra531-stack/diary-content-system) |
+| 📡 **雅思侦察 (Radar)** | [🚀 访问线上侦察日志](https://yaemra531-stack.github.io/ielts-radar/) | [ielts-radar](https://github.com/yaemra531-stack/ielts-radar) |
 | ✍️ **顾家北100句默写** | [🚀 访问练习器](https://yaemra531-stack.github.io/ielts-100-sentences/) | [ielts-100-sentences](https://github.com/yaemra531-stack/ielts-100-sentences) |
 | 📘 **每日备战日记** | [📂 进入成型日记库](https://github.com/yaemra531-stack/creator-workspace/tree/main/02-%E6%88%90%E5%9E%8B%E6%97%A5%E8%AE%B0/%E6%AF%8F%E6%97%A5%E5%A4%87%E6%88%98%E6%97%A5%E8%AE%B0) | [02-成型日记](https://github.com/yaemra531-stack/creator-workspace/tree/main/02-%E6%88%90%E5%9E%8B%E6%97%A5%E8%AE%B0) |
 | 📚 **雅思干货** | [📂 进入 16 步草稿库](https://github.com/yaemra531-stack/creator-workspace/tree/main/03-16%E6%AD%A5%E5%B9%B2%E8%B4%A7%E8%8D%89%E7%88%BF) | [creator-workspace](https://github.com/yaemra531-stack/creator-workspace) |
@@ -37,6 +38,10 @@ const readmeContent = `# 🌌 瓦斯 · 创作者宇宙
 ## 🏛️ 二、三大核心板块深度详情
 
 ### 📘 板块一：雅思 × AI（核心垂直主线）
+- 📡 **[雅思侦察 (IELTS Radar)](https://github.com/yaemra531-stack/ielts-radar)**：
+  - *入口*：[访问线上侦察日志](https://yaemra531-stack.github.io/ielts-radar/) · [源码仓库](https://github.com/yaemra531-stack/ielts-radar)
+  - *定位*：Apple × Notion × Linear 风格个人研究工作台，双 Agent（WorkBuddy + Muse）每日精选 10 篇真实社媒生态。
+  - *用法*：围绕「①发现 · ②理解 · ③价值」三大核心目标沉淀备考认知，版本化管理筛选提示词。
 - 📱 **[雅思日记](https://github.com/yaemra531-stack/diary-content-system)**：
   - *入口*：[访问线上工作台](https://ielts-diary.yaemra531.workers.dev) · [源码仓库](https://github.com/yaemra531-stack/diary-content-system)
   - *定位*：记录 0 报班、0 外教纯靠 AI 学雅思的真实试验过程。
